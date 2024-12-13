@@ -1,0 +1,2 @@
+# CaseDataAnalysis
+该项目是针对mazesuit软件生成的文件进一步的进行数据拆分、分组、计算绘图以及导出成表格
